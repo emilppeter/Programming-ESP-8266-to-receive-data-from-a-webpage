@@ -1,0 +1,84 @@
+#co
+{
+	background-color: green;
+	width: 10em;
+	height: 7em;
+	border-radius: 50px;
+	cursor: pointer;
+	border-color: black;
+}
+
+#cf
+{
+	background-color: #C00000;
+	width: 10em;
+	height: 7em;
+	border-radius: 50px;
+	cursor: pointer;
+	border-color: black;
+}
+
+#po
+{
+	background-color: green;
+	width: 10em;
+	height: 7em;
+	border-radius: 50px;
+	cursor: pointer;
+	border-color: black;
+}
+
+
+#pf
+{
+	background-color: #C00000;
+	width: 10em;
+	height: 7em;
+	border-radius: 50px;
+	cursor: pointer;
+	border-color: black;
+}
+
+.bb
+{
+	vertical-align: bottom;
+}
+
+#hr2
+{
+	border-radius: 50px;
+	height: 1em; 
+	background-color: black;
+	border-color: black;
+}
+
+.cc
+{
+	vertical-align: bottom;
+}
+
+h1
+{
+	font-style: ;
+	background-color: black;
+}
+
+#co:hover
+{
+	background-color: lime;
+}
+
+#pf:hover
+{
+	background-color: red;
+}
+
+#po:hover
+{
+	background-color: lime;
+}
+
+#cf:hover
+{
+	background-color: red;
+}
